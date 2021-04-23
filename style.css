@@ -55,3 +55,37 @@ input
 {
     color: #ff7700;
 }
+.envi_al
+{
+    margin-top: 13px;
+}
+.envi_al h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.envi_al p
+{
+    margin-top: 10px;
+}
+.header_entrepreneur{
+    line-height: 2;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal_body{
+    text-align: center;
+}
